@@ -1,0 +1,17 @@
+NpriID,NPRI Identification Number
+FacilityName,Facility Name
+NPRI_Report_ReportYear,Reporting year
+Quantity,Quantity
+Cas,Chemical Abstracts Service number
+Detail_NPRI_SubstanceInfo_NameEn,Substance name
+Group,Describes the type of substance report. Higher level than category
+Category,Describes the specific category of the substance report . These are sub-groups
+Latitude,Latitude
+Longitude,Longitude
+ProvinceEn,Province name
+Detail_UnitType_NameEn,Units
+NAICSPrimary,North American Industry Classification System
+NAICSTitleEn,NAICS english name
+RecordYear,
+Substance comments by category,Substance comments by category
+Substance comments for disposals and all media,Substance comments for disposals and all media. These comments are by group rather than category
